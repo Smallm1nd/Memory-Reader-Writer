@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Memory Reader-Writer/Memory Reader-Writer.vcxproj" Id="bd421b05-7ce3-4455-97ee-c5c9aa98920d" />
+</Solution>
